@@ -9,7 +9,6 @@
 
 * Youtube video that i have followed in this project <a href="https://www.youtube.com/watch?v=HCJmlvgO2WY">Video</a>
 
-* env file content
-</br>
+### env file content
 <p>PORT=3000</p>
 <h5>DATABASE_URL="file:./dev.db" (for sqlite)</h5>
